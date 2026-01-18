@@ -135,7 +135,6 @@ python App.py
 - Include discount/coupon codes
 - Generate daily/monthly sales reports
 - Add more customization options for menu items
-**Note** In the assignment we had to define functions separately in different files hence the files are messy , you can define everything in one single file :)
 
 ## Contributing
 
@@ -150,5 +149,6 @@ This project is open source and available for educational purposes.
 Repository maintained by: bugsNburgers
 
 ---
+**Note** In the assignment we had to define functions separately in different files hence the files are messy , you can define everything in one single file :)
 
 **Note**: This is a simple billing system designed for educational purposes and small-scale restaurant operations.
